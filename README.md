@@ -1,0 +1,2 @@
+# pydanticai-examples
+PydanticAI Examples
