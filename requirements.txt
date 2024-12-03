@@ -1,0 +1,18 @@
+# Pydantic AI
+# pydantic-ai
+
+# To use Logfire with PydanticAI, install pydantic-ai 
+# or pydantic-ai-slim with the logfire optional group:
+# pip install 'pydantic-ai[logfire]'
+
+# To install examples, use the examples optional group:
+# pip install 'pydantic-ai[examples]'
+
+# If you're using just OpenAIModel, run:
+# pip install 'pydantic-ai-slim[openai]'
+
+python-dotenv
+ipython
+
+
+layers/
